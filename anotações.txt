@@ -1,0 +1,1 @@
+Separar em componentes os necessários
