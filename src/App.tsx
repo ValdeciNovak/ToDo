@@ -58,6 +58,7 @@ function App() {
 			return [...taskInconpleted, ...taskCompleted];
 		});
 	}
+	
 
 	function handleDeleteTask(taskId: number) {
 		console.log("entrou");
